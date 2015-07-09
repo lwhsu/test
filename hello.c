@@ -5,7 +5,7 @@
 
 int main(int argc, const char *argv[])
 {
-	haha
+	haha;
 	printf("Hello world!\n");
 	return 0;
 }
