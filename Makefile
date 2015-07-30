@@ -1,2 +1,2 @@
 all:
-	cc -O2 -pipe -march=native   hello.c  -o hello
+	cc -Wall -O2 -pipe -march=native   hello.c  -o hello
